@@ -4,16 +4,16 @@ no worry, with the help of password_enhance_ascii, you gonna  embrace the freedo
 
 don't make things complicated,but make things effectily...
 
-enhance your private key through some special words/number/symbol, then take a photo of the encrypted password,you don't needs to worry where is the safest place to hide your cold 
+enhance your private key through some special words/number/symbol, then take a photo of the encryptedprivate key,you don't needs to worry where is the safest place to hide your cold 
 wallt, and only you know what's going on!!!!
 
 
 1-- open  "password enhance main.py"
-2-- put your orginal password to <pass_word>, then at <enhance1> put the words you want to use for encryption 
+2-- put your orginal private key to <pass_word>, then at <enhance1> put the words you want to use for encryption 
 3-- keep <encrpyted_pass_word> empty, if you don't want to decrypte 
 4-- Running it !!
 
 !!!!!!!!!!Important!!!!!!!!!!!!!!!!!!
-After you encrypte your password, please make sure you copy the encrypted password ot <encrpyted_pass_word> to verfiy it's functional !!!!!!!!!!!
+After you encrypte your private key, please make sure you copy the encrypted private key ot <encrpyted_pass_word> to verfiy it's functional !!!!!!!!!!!
 
 feel free to leave comments 
